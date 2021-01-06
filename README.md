@@ -7,7 +7,7 @@ A minimum of 6 relational tables
 
 Appropriate implicit constraints (including primary & foreign keys)
 
-Explicit (semantic) constraints such as table constraint(s) and triggers (you need not implement assertions)
+Explicit (semantic) constraints such as table constraint(s) and triggers (Do not need to implement assertions)
 
 At least one view should also be defined within the database
 
